@@ -1,0 +1,72 @@
+@import
+url{@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');}
+@import
+url{@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');}
+html, body {
+  height: 100%;
+  width: 100%;
+text-align: center;}
+.minecraft{font-family: 'Press Start 2P', cursive;
+          font-size: 30px;}
+.photo{width: 400px;}
+.block{font-family: 'Bungee', cursive;
+  background-color: #f2eec4;
+      border: 20px solid #bebe93;
+      font-size:30px}
+.head{background-color: #000000;
+      border: 20px solid #363636;
+      color: purple;}
+.underblock{background-color: #fff4bd;
+           border: 5px solid #cac88c;}
+.underblock:hover{font-size: 35px;
+cursor: pointer;
+background-color:#c7c78f;
+border: 5px solid #a5a98e;
+transition:all 90ms}
+a{text-decoration: none;
+ color: #000000;}
+.endofend{background-color: #6161f5;
+         font-size: 30px;
+         border:30px solid #3030d9;
+         font-family: 'Press Start 2P', cursive;}
+.box{border:10px solid #1414ff;
+    height:200px;
+    width: 200px;
+    margin-left:200px;
+     margin-bottom:25px ;}
+.box:hover{font-size: 35px;
+cursor: pointer;
+background-color:#12645a;
+border: 5px solid #143c71;
+transition:all 90ms}
+.first{background-color: #159966;
+         font-size: 30px;
+         border:50px solid #118d6e;
+         font-family: 'Press Start 2P', cursive;}
+
+.second{background-color: #d02525;
+         font-size: 30px;
+         border:30px solid #921c1c;
+         font-family: 'Press Start 2P', cursive;}
+.final{background-color: #8a8a8a;
+         font-size: 30px;
+         border:30px solid #3d3d3d;https://WetFarawayFrontpage.artem666krutoi.repl.co
+         font-family: 'Press Start 2P', cursive;}
+.underblc{font-family: 'Bungee', cursive;
+  background-color: #c4c4c4;
+      border: 20px solid #484c49;
+      font-size:30px}
+.firt{background-color: #545659;
+         font-size: 30px;
+         border:50px solid #434746;
+         font-family: 'Press Start 2P', cursive;}
+
+.scond{background-color: #303030;
+         font-size: 30px;
+         border:30px solid #1c4992;
+         font-family: 'Press Start 2P', cursive;}
+.inal{background-color: #8a8a8a;
+         font-size: 30px;
+         border:30px solid #3d3d3d;
+         font-family: 'Press Start 2P', cursive;}
+ol{text-align: left;}
